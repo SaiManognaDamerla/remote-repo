@@ -6,3 +6,4 @@ content for commit-a1
 content for commit-b1
 content for commit-c1
 content for commit-c2
+content for commit-c3
